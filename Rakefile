@@ -16,7 +16,7 @@ end
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "flexible-godlike"
+    gemspec.name = "multi-godlike"
     gemspec.summary = "Feel godly after your tests"
     gemspec.description = "Announcers can be motivating. \n  Forked from a fork from a fork....Follow the github chain for more."
     gemspec.email = "jon@burningbush.us"
