@@ -1,3 +1,6 @@
 require 'rubygems'
+require 'test/unit'
+require 'leftright'
 require 'active_support'
 require 'active_support/test_case'
+require 'godlike'

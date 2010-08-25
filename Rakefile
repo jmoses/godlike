@@ -16,12 +16,12 @@ end
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "godlike"
+    gemspec.name = "flexible-godlike"
     gemspec.summary = "Feel godly after your tests"
-    gemspec.description = "Announcers can be motivating"
-    gemspec.email = "Adman1965@gmail.com"
-    gemspec.homepage = "http://github.com/Adman65/godlike"
-    gemspec.authors = ["Adam Hawkins"]
+    gemspec.description = "Announcers can be motivating. \n  Forked from a fork from a fork....Follow the github chain for more."
+    gemspec.email = "jon@burningbush.us"
+    gemspec.homepage = "http://github.com/jmoses/godlike"
+    gemspec.authors = ["Jon Moses"]
     Jeweler::GemcutterTasks.new
   end
 rescue LoadError
